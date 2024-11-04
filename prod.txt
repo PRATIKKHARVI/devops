@@ -8,3 +8,11 @@
 8. git clone https://github.com/PRATIKKHARVI/devops.git
 
 hello again guys!!!
+
+cd foldername
+git add filename.txt
+git add .
+git commit -m "first commit"
+git push origin main
+git pull origin main
+finished
