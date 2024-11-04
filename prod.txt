@@ -1,0 +1,8 @@
+1. open github and create a new repository "devops"
+2. create a new file dev.txt and enter hello world
+3. commit the changes and again try to edit the file to hello pratik and commit
+4. check the history
+5. open vs code and type in terminal
+6. git config --global user.name "PRATIKKHARVI"
+7. git config --global user.email "pratikmkharvi@gmail.com"
+8. git clone https://github.com/PRATIKKHARVI/devops.git
